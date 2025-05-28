@@ -1,7 +1,11 @@
 Institución académica: Universidad Técnica Particular de Loja
+
 Carrera: Ingenieria en Computación
+
 Asignatura: Análisis de algoritmos
+
 Estudiante: Jorge Beltrán
+
 Nivel: 4 semestre
 
 Descripción:
