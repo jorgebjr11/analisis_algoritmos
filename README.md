@@ -12,4 +12,4 @@ Descripción:
 Este repositorio almacena todos los trabajos que se han desarrollado en la asignatura de análisis de algoritmos.
 
 Observaciones:
-1. No hay resúmenes de las semanas 8 y 16 porque en esas semanas se rinden exámenes bimestrales.
+No hay resúmenes de las semanas 8 y 16 porque en esas semanas se rinden exámenes bimestrales.
